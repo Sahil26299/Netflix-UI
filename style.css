@@ -1,0 +1,90 @@
+#cf1{
+    background-image: url('/background_netflix.jpeg');
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0.25),rgba(6, 4, 4, 0.9) 100%), url('/background_netflix.jpeg');
+    height: 45vw;
+    background-size: cover;
+    margin-bottom: 10px;
+}
+#brand{
+    width: 200px;
+}
+#netflix-logo{
+    background-color: red;
+}
+#dropdown{
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    padding: 10px;
+    border-radius: 5px;
+}
+#sign_in{
+    padding: 8px 20px;
+}
+#cf1_row{
+ padding: 10vh 50vh;
+}
+#cf1_col_h1{
+    color: white;
+    font-size: 60px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+#cf1_col_h3{
+    color: white;
+    font-weight: 300;
+    margin-bottom: 25px;
+}
+#cf1_col_p{
+    color: white;
+    font-size: 25px;
+    font-weight: 300;
+    margin-bottom: 20px;
+}
+#cf1{
+    text-align: center;
+}
+#seach_bar{
+    width: 50vh;
+    height: 7vh;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#button{
+    width: 30vh;
+    height: 7vh;
+    background-color: red;
+    color: white;
+    border: none;
+    font-size: 20px;
+}
+#cf2{
+    background-color: black;
+    padding: 0vh 40vh;
+}
+#cf2_h2{
+    font-size: 50px;
+    color:white;
+}
+#cf2_h3{
+    color: white;
+    font-size: 22px;
+    font-weight: 300;
+}
+#cf2_col1{
+    padding-top: 125px;
+}
+#cf2_col2_img{
+    width: 500px;  
+}
+#cf2_col2{
+    position: relative;
+    z-index: 1;
+}
+#video{
+    position: absolute;
+    top: 77px;
+    left: 78px;
+    width: 368px;
+    z-index: -2;
+}
